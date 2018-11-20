@@ -1,6 +1,7 @@
 # thatsnotmy
 
 [![Travis build status](https://travis-ci.org/alexwhan/thatsnotmy.svg?branch=master)](https://travis-ci.org/alexwhan/thatsnotmy)
+[![Coverage status](https://codecov.io/gh/alexwhan/thatsnotmy/branch/master/graph/badge.svg)](https://codecov.io/github/alexwhan/thatsnotmy?branch=master)
 
 This is a ridiculous, single function package to generate titles for books in the "That's not my..." series of children's books.
 
