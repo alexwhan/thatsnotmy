@@ -4,10 +4,12 @@
 \alias{thatsnotmy}
 \title{thatsnotmy}
 \usage{
-thatsnotmy(silent = FALSE)
+thatsnotmy(silent = FALSE, break_char = "\\n")
 }
 \arguments{
 \item{silent}{Should the function print to the console?}
+
+\item{break_char}{A character to break the sentence, default is linebreak}
 }
 \value{
 string
