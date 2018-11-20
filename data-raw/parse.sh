@@ -1,0 +1,1 @@
+sed '1,29 d' $1 | awk '{print $5}' | sed 's/_/ /g' | sed 's/([a-z])//' > $2
