@@ -19,3 +19,7 @@ To generate a title, simply run:
 ``` r
 thatsnotmy()
 ```
+
+And receive such gems as "That's not my queen regent...its internal maxillary artery is too autotomic".
+
+This package uses the list of adjectives and nouns from [WordNet](https://wordnet.princeton.edu/), and just sticks them together at randomly in the "That's not my [noun]... its [noun] is too [adjective]"
