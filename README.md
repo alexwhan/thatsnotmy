@@ -5,6 +5,10 @@
 
 This is a ridiculous, single function package to generate titles for books in the "That's not my..." series of children's books.
 
+## TLDR
+
+You can access a [demo shiny app](https://alexwhan.shinyapps.io/thatsnotmyapp/) if the below is too much hassle.
+
 ## Installation
 
 You can install this package from github with:
@@ -21,6 +25,6 @@ To generate a title, simply run:
 thatsnotmy()
 ```
 
-And receive such gems as "That's not my queen regent...its internal maxillary artery is too autotomic".
+And receive such gems as "That's not my queen regent...its internal maxillary artery is too autotomic". If running that code is too much hard work you can also use `example_app()` (if you have the [shiny package](https://www.rstudio.com/products/shiny/) installed.)
 
 This package uses the list of adjectives and nouns from [WordNet](https://wordnet.princeton.edu/), and just sticks them together at randomly in the "That's not my [noun]... its [noun] is too [adjective]"
