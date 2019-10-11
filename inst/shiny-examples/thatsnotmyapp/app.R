@@ -17,8 +17,6 @@ server <- function(input, output) {
 
       out_text
     }
-
-
   })
 }
 
