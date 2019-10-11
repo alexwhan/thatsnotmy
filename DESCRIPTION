@@ -4,12 +4,12 @@ Title: That's not my package... Its title field is too malformed
 Version: 0.1.0
 Authors@R: as.person("Alex Whan <alexwhan@gmail.com> [aut, cre]")
 Description: Generates titles in the style of "That's not my..." books.
-License: GPL-3 + file LICENSE
+License: MIT + file LICENSE.md
 Depends: R (>= 2.10)
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 6.1.0
+RoxygenNote: 6.1.1
 Suggests: 
     shiny (>= 1.0),
     testthat,
